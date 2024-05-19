@@ -1,0 +1,31 @@
+[{
+    "id":1,
+    "name":"ramakrishnan",
+    "age":22,
+    "hobbies":["books","reading","writing"],
+    "parents":{
+        "dad":"ramanathan",
+        "mother":"gowri"
+    }
+}
+{
+    "id":2,
+    "name":"anusanthalika",
+    "age":22,
+    "hobbies":["books","reading","writing"],
+    "parents":{
+        "dad":"duraisingam",
+        "mother":"muthamizhselvi"
+    }
+}
+{
+    "id":3,
+    "name":"karthik",
+    "age":22,
+    "hobbies":["books","reading","writing"],
+    "parents":{
+        "dad":"eswar",
+        "mother":"eswari"
+    }
+}
+]
